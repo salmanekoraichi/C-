@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System;
+using System.Collections.Generic;
+
+// Programme principal TP2
+class ProgramTP2
+{
+    static void Main(string[] args)
+    {
+        Biblio biblio = new Biblio();
+
+        // Ajout de quelques livres et dictionnaires
+        biblio.AjouterDocument(new Livre("Le Petit Prince", "Antoine de Saint-Exupéry", 96));
+        biblio.AjouterDocument(new Livre("1984", "George Orwell", 328));
+        biblio.AjouterDocument(new Dictionnaire("Le Grand Dictionnaire", "Français", 50000));
+        biblio.AjouterDocument(new Dictionnaire("Oxford Dictionary", "Anglais", 60000));
+
+        // Affichage du nombre de livres
+        Console.WriteLine("Nombre de livres : " + biblio.NombreDeLivres());
+        Console.WriteLine();
+
+        // Affichage uniquement des dictionnaires
+        biblio.AfficherDictionnaires();
+        Console.WriteLine();
+
+        // Affichage des auteurs associés aux numéros de documents
+        biblio.TousLesAuteurs();
+        Console.WriteLine();
+
+        // Affichage de toutes les descriptions
+        biblio.ToutesLesDescriptions();
+
+        Console.WriteLine("\nAppuyez sur une touche pour terminer...");
+        Console.ReadKey();
+    }
+}
