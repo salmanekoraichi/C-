@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|C:\\Users\\Yoga\\C-\\GestionDesAbsances\\gestiondesabsances\\gestioneleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\gestioneleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|c:\\users\\yoga\\c-\\gestiondesabsances\\gestiondesabsances\\gestionabsances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\gestionabsances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|C:\\Users\\Yoga\\C-\\GestionDesAbsances\\gestiondesabsances\\formabsences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\formabsences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|C:\\Users\\Yoga\\C-\\GestionDesAbsances\\gestiondesabsances\\formabsences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\formabsences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|c:\\users\\yoga\\c-\\gestiondesabsances\\gestiondesabsances\\formabsences.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\formabsences.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|c:\\users\\yoga\\c-\\gestiondesabsances\\gestiondesabsances\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|C:\\Users\\Yoga\\C-\\GestionDesAbsances\\gestiondesabsances\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|C:\\Users\\Yoga\\C-\\GestionDesAbsances\\gestiondesabsances\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|c:\\users\\yoga\\c-\\gestiondesabsances\\gestiondesabsances\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|C:\\Users\\Yoga\\C-\\GestionDesAbsances\\gestiondesabsances\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40627226-D401-47C9-BF81-92E381391CE5}|GestionDesAbsances\\GestionDesAbsances.csproj|solutionrelative:gestiondesabsances\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAbsences.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\FormAbsences.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\FormAbsences.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\FormAbsences.cs [Design]",
+              "RelativeToolTip": "GestionDesAbsances\\FormAbsences.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:15:57.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Form1.Designer.cs",
+              "RelativeToolTip": "GestionDesAbsances\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:50:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAbsences.cs",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\FormAbsences.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\FormAbsences.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\FormAbsences.cs",
+              "RelativeToolTip": "GestionDesAbsances\\FormAbsences.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:16:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionEleve.cs",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\GestionEleve.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\GestionEleve.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\GestionEleve.cs",
+              "RelativeToolTip": "GestionDesAbsances\\GestionEleve.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:06:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAbsences.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\FormAbsences.Designer.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\FormAbsences.Designer.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\FormAbsences.Designer.cs",
+              "RelativeToolTip": "GestionDesAbsances\\FormAbsences.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:42:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionAbsances.cs",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\GestionAbsances.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\GestionAbsances.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\GestionAbsances.cs",
+              "RelativeToolTip": "GestionDesAbsances\\GestionAbsances.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:08:54.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Form1.cs [Design]",
+              "RelativeToolTip": "GestionDesAbsances\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:05:11.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Form1.cs",
+              "RelativeToolTip": "GestionDesAbsances\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:09:27.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\packages.config",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\packages.config",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\packages.config",
+              "RelativeToolTip": "GestionDesAbsances\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-06T19:47:37.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Program.cs",
+              "RelativeDocumentMoniker": "GestionDesAbsances\\Program.cs",
+              "ToolTip": "C:\\Users\\Yoga\\C-\\GestionDesAbsances\\GestionDesAbsances\\Program.cs",
+              "RelativeToolTip": "GestionDesAbsances\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:05:44.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
