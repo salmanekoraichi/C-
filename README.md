@@ -27,4 +27,4 @@ This repository is built for **educational purposes**. It serves as a learning j
 ## 🚀 How to Use This Repo
 1. **Clone** the repository:
    ```sh
-   git clone https://github.com/username/csharp-education.git
+   git clone  https://github.com/salmanekoraichi/C-.git
