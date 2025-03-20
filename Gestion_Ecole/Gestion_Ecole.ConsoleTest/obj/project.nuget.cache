@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qk9aqUzncpg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Yoga\\C-\\Gestion_Ecole\\Gestion_Ecole.ConsoleTest\\Gestion_Ecole.ConsoleTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet DB.LIB n'est pas compatible avec net8.0 (.NETCoreApp,Version=v8.0). Le projet DB.LIB prend en charge : net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "DB.LIB",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

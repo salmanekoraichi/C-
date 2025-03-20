@@ -1,0 +1,6 @@
+C:\Users\Yoga\C-\Gestion_Ecole\DB.LIB\obj\Debug\net8.0-windows\DB.LIB.csproj.AssemblyReference.cache
+C:\Users\Yoga\C-\Gestion_Ecole\DB.LIB\obj\Debug\net8.0-windows\DB.LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\C-\Gestion_Ecole\DB.LIB\obj\Debug\net8.0-windows\DB.LIB.AssemblyInfoInputs.cache
+C:\Users\Yoga\C-\Gestion_Ecole\DB.LIB\obj\Debug\net8.0-windows\DB.LIB.AssemblyInfo.cs
+C:\Users\Yoga\C-\Gestion_Ecole\DB.LIB\obj\Debug\net8.0-windows\DB.LIB.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\C-\Gestion_Ecole\DB.LIB\obj\Debug\net8.0-windows\DB.LIB.sourcelink.json

@@ -1,0 +1,6 @@
+C:\Users\Yoga\C-\Gestion_Ecole\Gestion_Ecole.WinForms\obj\Debug\net8.0-windows\Gestion_Ecole.WinForms.csproj.AssemblyReference.cache
+C:\Users\Yoga\C-\Gestion_Ecole\Gestion_Ecole.WinForms\obj\Debug\net8.0-windows\Gestion_Ecole.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\C-\Gestion_Ecole\Gestion_Ecole.WinForms\obj\Debug\net8.0-windows\Gestion_Ecole.WinForms.AssemblyInfoInputs.cache
+C:\Users\Yoga\C-\Gestion_Ecole\Gestion_Ecole.WinForms\obj\Debug\net8.0-windows\Gestion_Ecole.WinForms.AssemblyInfo.cs
+C:\Users\Yoga\C-\Gestion_Ecole\Gestion_Ecole.WinForms\obj\Debug\net8.0-windows\Gestion_Ecole.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\C-\Gestion_Ecole\Gestion_Ecole.WinForms\obj\Debug\net8.0-windows\Gestion_Ecole.WinForms.sourcelink.json
